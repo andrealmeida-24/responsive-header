@@ -1,0 +1,22 @@
+{
+  "name": "responsive-header",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrealmeida-24/responsive-header.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrealmeida-24/responsive-header/issues"
+  },
+  "homepage": "https://github.com/andrealmeida-24/responsive-header#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
